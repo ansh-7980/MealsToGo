@@ -24,9 +24,9 @@ const error = (theme) => `
 `;
 
 const caption = (theme) => `
-    font-size: ${theme.fontSizes.caption};
+    font-size: ${theme.fontSizes.body};
     font-weight: ${theme.fontWeights.bold};
-    color:${theme.color.text.error};
+    color:${theme.color.text.primary};
 `;
 
 const label = (theme) => `

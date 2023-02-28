@@ -21,7 +21,7 @@ export const color = {
       navy:"#153f64",
     },
     text: {
-      primary: "#262626",
+      primary: "#2182BD",
       secondary: "#757575",
       disabled: "#9C9C9C",
       inverse: "#FFFFFF",
